@@ -17,6 +17,7 @@ public static void main(String[] args) {
 	
 a.phoneName();
 a.phoneNumb();
-			System.out.println("Cannot merge");
+			System.out.println("tamil");
+			
 }
 }
