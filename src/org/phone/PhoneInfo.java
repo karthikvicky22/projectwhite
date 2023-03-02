@@ -15,6 +15,17 @@ public static void main(String[] args) {
 	
 a.phoneName();
 a.phoneNumb();
-			
+
+	int age = 23;
+	System.out.println(age);
+
+
+
+
+
+
+
+
+
 }
 }
